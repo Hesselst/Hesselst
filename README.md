@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">Languages and Tools i use</h3>
+<h3 align="left">Languages and Tools I use</h3>
 
 ###
 
